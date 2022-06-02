@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYdHmw5I8zSG2ZpxvNMQgIZcx1Xcpjcmh48jkHzIdZ8a5e+thtB61l5WqlfozDt+XmhF2MCWX+N9PdhaW5L2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acuff\\Desktop\\coding challenges\\NextPrime\\NextPrime\\NextPrime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acuff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

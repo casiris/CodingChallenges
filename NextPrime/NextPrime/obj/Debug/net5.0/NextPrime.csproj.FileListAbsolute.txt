@@ -1,0 +1,16 @@
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.exe
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.deps.json
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.runtimeconfig.json
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.runtimeconfig.dev.json
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.dll
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\bin\Debug\net5.0\NextPrime.pdb
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.csproj.AssemblyReference.cache
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.AssemblyInfoInputs.cache
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.AssemblyInfo.cs
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.csproj.CoreCompileInputs.cache
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.dll
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\refint\NextPrime.dll
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.pdb
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\NextPrime.genruntimeconfig.cache
+C:\Users\acuff\Desktop\coding challenges\NextPrime\NextPrime\obj\Debug\net5.0\ref\NextPrime.dll

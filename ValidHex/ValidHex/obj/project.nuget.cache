@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBBjoS6uSkiQJpIcqCHcIyw0N9CjEn2RrCh8wtLNIdTdbsV4mzyxWkhl5iAW9Xe9LtVns3Vo9CMNHek2E5xMWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acuff\\Desktop\\coding challenges\\ValidHex\\ValidHex\\ValidHex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acuff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

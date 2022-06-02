@@ -1,0 +1,16 @@
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.exe
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.deps.json
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.runtimeconfig.json
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.runtimeconfig.dev.json
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.dll
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\bin\Debug\net5.0\ValidHex.pdb
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.csproj.AssemblyReference.cache
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.AssemblyInfoInputs.cache
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.AssemblyInfo.cs
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.csproj.CoreCompileInputs.cache
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.dll
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\refint\ValidHex.dll
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.pdb
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ValidHex.genruntimeconfig.cache
+C:\Users\acuff\Desktop\coding challenges\ValidHex\ValidHex\obj\Debug\net5.0\ref\ValidHex.dll
